@@ -1,0 +1,6 @@
+﻿CREATE PROCEDURE [dbo].[spGetUser]
+AS
+BEGIN
+SELECT * FROM signup
+END
+GO

@@ -1,0 +1,7 @@
+﻿CREATE PROCEDURE [dbo].[spDeleteUser]
+@Id INT
+AS
+BEGIN
+DELETE FROM signup WHERE Id=@Id
+END
+GO

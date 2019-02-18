@@ -1,0 +1,14 @@
+D:\UserRegistration\UserRegistrationApi\UserRegistrationApi\bin\Debug\netcoreapp2.2\UserRegistrationApi.deps.json
+D:\UserRegistration\UserRegistrationApi\UserRegistrationApi\bin\Debug\netcoreapp2.2\UserRegistrationApi.runtimeconfig.json
+D:\UserRegistration\UserRegistrationApi\UserRegistrationApi\bin\Debug\netcoreapp2.2\UserRegistrationApi.runtimeconfig.dev.json
+D:\UserRegistration\UserRegistrationApi\UserRegistrationApi\bin\Debug\netcoreapp2.2\UserRegistrationApi.dll
+D:\UserRegistration\UserRegistrationApi\UserRegistrationApi\bin\Debug\netcoreapp2.2\UserRegistrationApi.pdb
+D:\UserRegistration\UserRegistrationApi\UserRegistrationApi\obj\Debug\netcoreapp2.2\UserRegistrationApi.csprojAssemblyReference.cache
+D:\UserRegistration\UserRegistrationApi\UserRegistrationApi\obj\Debug\netcoreapp2.2\UserRegistrationApi.csproj.CoreCompileInputs.cache
+D:\UserRegistration\UserRegistrationApi\UserRegistrationApi\obj\Debug\netcoreapp2.2\UserRegistrationApi.RazorAssemblyInfo.cache
+D:\UserRegistration\UserRegistrationApi\UserRegistrationApi\obj\Debug\netcoreapp2.2\UserRegistrationApi.RazorAssemblyInfo.cs
+D:\UserRegistration\UserRegistrationApi\UserRegistrationApi\obj\Debug\netcoreapp2.2\UserRegistrationApi.AssemblyInfoInputs.cache
+D:\UserRegistration\UserRegistrationApi\UserRegistrationApi\obj\Debug\netcoreapp2.2\UserRegistrationApi.AssemblyInfo.cs
+D:\UserRegistration\UserRegistrationApi\UserRegistrationApi\obj\Debug\netcoreapp2.2\UserRegistrationApi.RazorTargetAssemblyInfo.cache
+D:\UserRegistration\UserRegistrationApi\UserRegistrationApi\obj\Debug\netcoreapp2.2\UserRegistrationApi.dll
+D:\UserRegistration\UserRegistrationApi\UserRegistrationApi\obj\Debug\netcoreapp2.2\UserRegistrationApi.pdb
